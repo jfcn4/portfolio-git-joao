@@ -1,2 +1,2 @@
-console.log('iniciando rota');
-console.log('rota finalizada');
+console.log('iniciando rota e correcao de bug critico');
+console.log('rota e correcao finalizadas');
